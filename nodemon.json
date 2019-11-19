@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "admin",
+        "MONGO_PASSWORD": "admin1",
+        "MONGO_DEFAULT_DATABASE": "neo",
+        "STRIPE_KEY": "sk_test_T8OE02SHDZWLwk4TYtrWlsat"
+    }
+}
